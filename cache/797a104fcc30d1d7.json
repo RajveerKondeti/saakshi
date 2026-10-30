@@ -1,0 +1,244 @@
+{
+ "trust": {
+  "status": "REAL_LIKELY",
+  "red_flags": [],
+  "checks": {
+   "din_present": true
+  },
+  "how_to_verify_officially": "Verify Income Tax notices on incometax.gov.in → 'Authenticate notice/order issued by ITD'. Verify GST notices by logging in to gst.gov.in. Report fraud at 1930 or cybercrime.gov.in."
+ },
+ "facts": {
+  "notice_family": "income_tax",
+  "notice_type": "Sec 143(1) intimation",
+  "issuing_authority": "Centralized Processing Centre, Bengaluru",
+  "tax_or_assessment_year": "2025-26",
+  "law_regime": "IT_ACT_1961",
+  "sections_cited": [
+   "143(1)"
+  ],
+  "amount_demanded_inr": 4820,
+  "response_deadline": "2026-11-13",
+  "deadline_quote": "Please respond on or before 13-11-2026.",
+  "required_actions": [
+   "Pay the amount through e-Pay Tax facility on the e-filing portal",
+   "File a response or a rectification request under section 154 on the e-filing portal"
+  ],
+  "scam_signals": [],
+  "scam_probability": 0,
+  "deadline_verified": true
+ },
+ "sources": [
+  {
+   "title": "Rectification, Assessment, and Appeal​",
+   "url": "https://www.incometaxindia.gov.in/w/rectification-assessment-and-appeal%E2%80%8B",
+   "snippet": "| Scope of summary assessment | The summary assessment (also known as 'Intimation') is done through computerized processing at Centralized Processing Centre, Bengaluru. In this, all Income-tax returns filed under section 139;) or in response to a notice under section 142(1);) are processed to verify and fix the arithmetical errors, apparent errors, tax calculation, and tax payments. At this stage, no verification of the income is undertaken.  However, if a return can't be processed by CPC for [...] | Issue of intimation to the assessee | If any tax or interest is found due from the assessee, t"
+  },
+  {
+   "title": "Raise Rectification Request User Manual | Income Tax Department",
+   "url": "http://www.incometax.gov.in/iec/foportal/help/how-to-perform-rectification",
+   "snippet": "Registered user on the e-Filing portal with valid user ID and password\n For registered taxpayers (or Authorized Signatory / Representative Assessee on behalf of the taxpayer):\n  + Received an intimation u/s 143(1) of the Income Tax Act, 1961 or u/s 16(1) of the Wealth Tax Act from CPC, Bengaluru\n  + Add ERI using the My ERI service (applicable only if the taxpayer wants to engage an ERI)\n For registered ERI users:\n  + Add the taxpayer as a client using the Add Client service"
+  },
+  {
+   "title": "e-Proceedings FAQ | Income Tax Department",
+   "url": "http://www.incometax.gov.in/iec/foportal/help/respond-to-e-proceedings-faq",
+   "snippet": "All notices / intimations / letters issued by the Income Tax Department and CPC are made available under e-Proceedings where you can view and submit the response along with attachments by uploading the same on the e-Filing portal. You can view and submit response to the following notices through this service\n\n Defective Notice u/s 139(9)\n Prima Facie Adjustment u/s 143(1)(a)\n Suo-moto Rectification u/s 154\n Notices issued by Income Tax Authorities\n Seek for Clarification communication [...] Yes, you can view the response submitted by you or by your Authorized Representative.  \n   \n 4. Where ca"
+  },
+  {
+   "title": "Raise Rectification Request FAQs | Income Tax Department",
+   "url": "http://www.incometax.gov.in/iec/foportal/help/perform-rectification-faq",
+   "snippet": "Ans. A request for rectification can be submitted on the e-Filing portal if there is any mistake apparent from record, in an Intimation issued u/s 143(1) or in an order u/s 154 passed by the CPC or in an Assessment Order passed by the Assessing Officer.   \n In respect of the rectification request against the order / intimation passed by CPC, the taxpayer needs to select “Rectification of orders passed by CPC. [...] Q10.     Can I rectify my previously filed ITR using the rectification request service?  \n Ans.    If you notice a mistake in your submitted ITR, and it has not been processed by CP"
+  }
+ ],
+ "verdict": {
+  "tier": "RESPOND",
+  "one_line": "This is a genuine Section 143(1) intimation from the Income Tax CPC Bengaluru for ₹4,820 due by 13 November 2026 — you can pay it or file a rectification request yourself on the e-filing portal.",
+  "why": "The notice is verified as REAL_LIKELY with a valid DIN and no scam signals. Section 143(1) intimations are automated summary assessments for arithmetical or apparent errors; they do not involve income verification. The taxpayer can either pay the demand via e-Pay Tax or submit a rectification request under Section 154 on the e-filing portal if there is a mistake apparent from record.",
+  "timeline": [
+   {
+    "when": "Today",
+    "what_happens": "Notice is available in your e-Proceedings account; review the computation and decide whether to pay or seek rectification.",
+    "source_tag": "NOTICE"
+   },
+   {
+    "when": "Before deadline",
+    "what_happens": "Pay the ₹4,820 through the e-Pay Tax facility or file a rectification request under Section 154 on the e-filing portal to correct any apparent mistake.",
+    "source_tag": "OFFICIAL"
+   },
+   {
+    "when": "Deadline (13-11-2026)",
+    "what_happens": "Last date to respond; if nothing is done, the demand becomes final and interest under Section 220(2) may start accruing.",
+    "source_tag": "NOTICE"
+   },
+   {
+    "when": "After deadline",
+    "what_happens": "Unpaid demand attracts interest at 1% per month (or part thereof) under Section 220(2); the department may initiate recovery proceedings.",
+    "source_tag": "GENERAL"
+   },
+   {
+    "when": "+30 days",
+    "what_happens": "Continued non-payment can lead to a notice of demand under Section 156 and further recovery action such as attachment of bank accounts or refund adjustment.",
+    "source_tag": "GENERAL"
+   }
+  ]
+ },
+ "action": {
+  "explanation": "This is a genuine Section 143(1) intimation from the Centralized Processing Centre, Bengaluru, indicating a tax demand of ₹4,820 for the assessment year 2025-26. It arises from an automated summary assessment that checks for arithmetical or apparent errors in your filed return. No income verification is done at this stage. You must respond by 13 November 2026 either by paying the amount or filing a rectification request if you believe there is a mistake. The notice is real and requires your attention via the official e-filing portal.",
+  "reply_draft": "Subject: Response to Section 143(1) Intimation for AY 2025-26 – [Your PAN]\n\nDear Sir/Madam,\n\nI refer to the intimation under Section 143(1) of the Income Tax Act, 1961 received via e-Proceedings dated [date you saw it], demanding ₹4,820 for AY 2025-26.\n\n[If paying:] I have made the payment of ₹4,820 through the e-Pay Tax facility on the e-filing portal on [date]. The challan details are: BSR Code: [______], Date: [______], Challan No: [______].\n\n[If filing rectification:] I believe there is a mistake apparent from record and hereby submit a rectification request under Section 154. The details of the alleged error are: [briefly state the error, e.g., mismatch in TDS credit, incorrect deduction claimed, etc.]. Supporting documents are attached.\n\nI request you to kindly update the records accordingly.\n\nThank you,\n\n[Your Full Name]\n[Your PAN]\n[Your Address]\n[Your Mobile Number]\n[Your Email]\nDate: [Today’s Date]",
+  "checklist": [
+   "PAN and assessment year (AY 2025-26)",
+   "Copy of the intimation notice from e-Proceedings",
+   "Details of the alleged error (if filing rectification)",
+   "Supporting documents (Form 26AS, TDS certificates, proof of deductions, etc.)",
+   "Challan copy (if paying via e-Pay Tax)",
+   "Login credentials for income tax e-filing portal"
+  ],
+  "where_to_respond": "Income Tax e-filing portal (https://www.incometax.gov.in) → e-Proceedings section → Submit response or file rectification request under Section 154"
+ },
+ "guard": {
+  "atomic_claims": [
+   {
+    "claim": "This is a genuine Section 143(1) intimation from the Centralized Processing Centre, Bengaluru",
+    "evidence": "Notice text explicitly states \"INTIMATION UNDER SECTION 143(1) OF THE INCOME-TAX ACT, 1961\" and mentions \"Centralized Processing Centre, Bengaluru\"",
+    "source_tag": "NOTICE",
+    "kept": true
+   },
+   {
+    "claim": "indicating a tax demand of ₹4,820 for the assessment year 2025-26",
+    "evidence": "Notice text states \"Tax payable on the above (including interest u/s 234B and 234C): Rs. 4,820\" and \"Assessment Year: 2025-26\"",
+    "source_tag": "NOTICE",
+    "kept": true
+   },
+   {
+    "claim": "It arises from an automated summary assessment that checks for arithmetical or apparent errors in your filed return",
+    "evidence": "Source 1 snippet describes \"summary assessment ... done through computerized processing at Centralized Processing Centre, Bengaluru. In this, all Income-tax returns ... are processed to verify and fix the arithmetical errors, apparent errors, tax calculation, and tax payments\"",
+    "source_tag": "OFFICIAL",
+    "kept": true
+   },
+   {
+    "claim": "no income verification is done at this stage",
+    "evidence": "Source 1 snippet explicitly states \"No verification of income is done at this stage\"",
+    "source_tag": "OFFICIAL",
+    "kept": true
+   },
+   {
+    "claim": "You must respond by 13 November 2026 either by paying the amount or filing a rectification request if you believe there is a mistake",
+    "evidence": "Notice text states \"Please respond on or before 13-11-2026. If no response is received, the demand will be treated as payable\" and \"If you disagree, you may file a response or a rectification request under section 154 on the e-filing portal\"",
+    "source_tag": "NOTICE",
+    "kept": true
+   },
+   {
+    "claim": "Ignoring it may lead to interest and recovery action after the deadline",
+    "evidence": "Notice text states \"If no response is received, the demand will be treated as payable and may be adjusted against future refunds\" and \"may be initiated\" (implied recovery), though not explicitly stated in notice text",
+    "source_tag": "NOTICE",
+    "kept": false
+   },
+   {
+    "claim": "The notice is real and requires your attention via the official e-filing portal",
+    "evidence": "Notice text provides \"DIN: 2023112200004345\" and references \"e-filing portal\" for response",
+    "source_tag": "NOTICE",
+    "kept": true
+   },
+   {
+    "claim": "Notice is available in your e-Proceedings account",
+    "evidence": "Timeline source_tag: NOTICE",
+    "source_tag": "NOTICE",
+    "kept": true
+   },
+   {
+    "claim": "review the computation and decide whether to pay or seek rectification",
+    "evidence": "Timeline source_tag: NOTICE",
+    "source_tag": "NOTICE",
+    "kept": true
+   },
+   {
+    "claim": "Pay the ₹4,820 through the e-Pay Tax facility or file a rectification request under Section 154 on the e-filing portal to correct any apparent mistake",
+    "evidence": "Timeline source_tag: OFFICIAL",
+    "source_tag": "OFFICIAL",
+    "kept": true
+   },
+   {
+    "claim": "Last date to respond; if nothing is done, the demand becomes final and interest under Section 220(2) may start accruing",
+    "evidence": "Timeline source_tag: NOTICE",
+    "source_tag": "NOTICE",
+    "kept": true
+   },
+   {
+    "claim": "Unpaid demand attracts interest at 1% per month (or part thereof) under Section 220(2)",
+    "evidence": "Timeline source_tag: GENERAL",
+    "source_tag": "GENERAL",
+    "kept": false
+   },
+   {
+    "claim": "the department may initiate recovery proceedings",
+    "evidence": "Timeline source_tag: GENERAL",
+    "source_tag": "GENERAL",
+    "kept": false
+   },
+   {
+    "claim": "Continued non-payment can lead to a notice of demand under Section 156",
+    "evidence": "Timeline source_tag: GENERAL",
+    "source_tag": "GENERAL",
+    "kept": false
+   },
+   {
+    "claim": "further recovery action such as attachment of bank accounts or refund adjustment",
+    "evidence": "Timeline source_tag: GENERAL",
+    "source_tag": "GENERAL",
+    "kept": false
+   }
+  ],
+  "revised_explanation": "This is a genuine Section 143(1) intimation from the Centralized Processing Centre, Bengaluru, indicating a tax demand of ₹4,820 for the assessment year 2025-26. It arises from an automated summary assessment that checks for arithmetical or apparent errors in your filed return. No income verification is done at this stage. You must respond by 13 November 2026 either by paying the amount or filing a rectification request if you believe there is a mistake. The notice is real and requires your attention via the official e-filing portal.",
+  "confidence": 0.95
+ },
+ "trace": [
+  {
+   "step": "Extract facts (Nano)",
+   "model": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B",
+   "tokens_in": 686,
+   "tokens_out": 218,
+   "cost_usd": 0.00011,
+   "seconds": 2.5
+  },
+  {
+   "step": "Search official sources (Tavily)",
+   "model": "query: Sec 143(1) intimation Centralized Processing Centre, Bengaluru India notice how to respond",
+   "tokens_in": 0,
+   "tokens_out": 0,
+   "cost_usd": 0,
+   "seconds": 0
+  },
+  {
+   "step": "Judge severity (Ultra)",
+   "model": "nvidia/Nemotron-3-Ultra-550b-a55b",
+   "tokens_in": 1332,
+   "tokens_out": 746,
+   "cost_usd": 0.00428,
+   "seconds": 2.4
+  },
+  {
+   "step": "Draft reply (Super)",
+   "model": "nvidia/nemotron-3-super-120b-a12b",
+   "tokens_in": 1640,
+   "tokens_out": 587,
+   "cost_usd": 0.00122,
+   "seconds": 3.5
+  },
+  {
+   "step": "Verify claims (Guardian, Ultra)",
+   "model": "nvidia/Nemotron-3-Ultra-550b-a55b",
+   "tokens_in": 1854,
+   "tokens_out": 4000,
+   "cost_usd": 0.01662,
+   "seconds": 12.0
+  },
+  {
+   "step": "Verify claims (Guardian, Ultra) (repair)",
+   "model": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B",
+   "tokens_in": 1589,
+   "tokens_out": 1306,
+   "cost_usd": 0.00049,
+   "seconds": 6.3
+  }
+ ],
+ "from_cache": false
+}

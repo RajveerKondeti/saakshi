@@ -1,0 +1,24 @@
+FORM GST DRC-01
+[See rule 142(1)]
+Summary of Show Cause Notice
+
+Reference No: ZD2710260012345    Date: 21-10-2026
+GSTIN: 27QWERT9876K1ZW
+Name: [BUSINESS NAME], Pune, Maharashtra
+Issued by: State Tax Officer, Pune
+
+Section under which SCN is issued: Section 73 of the CGST/MGST Act, 2017
+Financial Year: 2023-24
+
+Brief facts: Input tax credit claimed in GSTR-3B (Rs. 1,42,600) exceeds
+the credit available in GSTR-2B (Rs. 1,09,800) for the period April 2023 to
+March 2024. Excess ITC: Rs. 32,800.
+
+Tax: Rs. 32,800   Interest: as applicable   Penalty: as applicable
+
+You are hereby directed to show cause why the above amount should not be
+demanded. Submit your reply in FORM GST DRC-06 within thirty days from the
+date of this notice. You may opt for a personal hearing.
+If you pay the tax with interest within thirty days, penalty may be
+reduced as per law. Failure to reply will lead to the matter being decided
+on the basis of available records.

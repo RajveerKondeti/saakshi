@@ -1,0 +1,31 @@
+GOVERNMENT OF INDIA
+INCOME TAX DEPARTMENT
+Centralized Processing Centre, Bengaluru
+
+DIN: ITBA/CPC/M/143(1)/2026-27/1078456213(1)
+Date: 14-10-2026
+
+INTIMATION UNDER SECTION 143(1) OF THE INCOME-TAX ACT, 1961
+Assessment Year: 2025-26
+
+To: [TAXPAYER NAME]
+PAN: ABCPX1234K
+
+Your return of income for Assessment Year 2025-26 has been processed.
+The following difference was found between the income returned and the
+information available in the Annual Information Statement (AIS):
+
+Interest from savings bank account reported in AIS: Rs. 18,450
+Interest from savings bank account declared in return: Rs. 3,200
+Difference added to total income: Rs. 15,250
+
+Tax payable on the above (including interest u/s 234B and 234C): Rs. 4,820
+
+If you agree, pay the amount through the e-Pay Tax facility on the
+e-filing portal (www.incometax.gov.in). If you disagree, you may file a
+response or a rectification request under section 154 on the e-filing portal.
+
+Please respond on or before 13-11-2026. If no response is received, the
+demand will be treated as payable and may be adjusted against future refunds.
+
+This is a computer-generated intimation and does not require a signature.
